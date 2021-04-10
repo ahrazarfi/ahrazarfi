@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahrazarfi&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahrazarfi" /></p>
 
-[![ahrazarfi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahrazarfi)](https://github.com/ahrazarfi)
+[![ahrazarfi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahrazarfi&theme=dark)](https://github.com/ahrazarfi)
